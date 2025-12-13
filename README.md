@@ -20,11 +20,9 @@ Made in Fusion360.
 # PCB:
 Here's my PCB! It was made in KiCad.
 
-Schematic:
-<img width="1219" height="879" alt="image" src="https://github.com/user-attachments/assets/4382b8a3-302a-4d3e-9990-652dc744c090" />
+Schematic:<b><img width="1219" height="879" alt="image" src="https://github.com/user-attachments/assets/4382b8a3-302a-4d3e-9990-652dc744c090" />
 
-PCB:
-<img width="853" height="735" alt="image" src="https://github.com/user-attachments/assets/3908d8cc-82c0-4298-a7b5-5c8c7ea53880" />
+PCB:<b><img width="853" height="735" alt="image" src="https://github.com/user-attachments/assets/3908d8cc-82c0-4298-a7b5-5c8c7ea53880" />
 
 # Firmware
 This hackpad uses KMK firmware for everything.
